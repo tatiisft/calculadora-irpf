@@ -59,7 +59,7 @@ input[type="number"] {
 }
 
 input[type="number"]:focus {
-  border-color: #1a7a5e;
+  border-color: # #00FFFF;
 }
 
 .botoes {
