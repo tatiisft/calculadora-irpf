@@ -9,7 +9,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #0f4c3a, #1a7a5e);
+  background: linear-gradient(135deg, ##FFC0CB, #800080);
   padding: 20px;
 }
 
@@ -59,7 +59,7 @@ input[type="number"] {
 }
 
 input[type="number"]:focus {
-  border-color: # #00FFFF;
+  border-color: # #FFC0CB;
 }
 
 .botoes {
