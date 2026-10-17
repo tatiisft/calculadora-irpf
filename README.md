@@ -2,8 +2,8 @@
 
 Aplicação web que calcula o Imposto de Renda de Pessoa Física (IRPF) mensal a partir do salário informado, usando a tabela progressiva vigente em Janeiro/2024. Mostra o imposto devido e a alíquota efetiva.
 
-🔗 **Aplicação online:** COLE_AQUI_O_LINK_DA_VERCEL
-📁 **Repositório:** COLE_AQUI_O_LINK_DO_GITHUB
+🔗 **Aplicação online:** https://calculadora-irpf-flax.vercel.app/
+📁 **Repositório:** https://github.com/tatiisft/calculadora-irpf
 
 ## Tecnologias utilizadas
 
@@ -56,6 +56,10 @@ Ou seja, qualquer commit enviado para a `main` gera uma nova versão online sem 
 
 ## Integrantes
 
-- Nome 1
-- Nome 2
-- Nome 3
+- Emilly Maria
+- Lucas Fernandes
+- Maria Letícia
+- Sidney Barroso
+- Tatiana Maria
+- Vitor Gabriel
+
