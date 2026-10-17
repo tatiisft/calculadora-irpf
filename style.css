@@ -59,7 +59,7 @@ input[type="number"] {
 }
 
 input[type="number"]:focus {
-  border-color: # #00FFFF;
+  border-color: #FFC0CB;
 }
 
 .botoes {
@@ -81,7 +81,7 @@ button {
 
 #btnCalcular {
   background: #1a7a5e;
-  color: #fff;
+  color: #800080;
 }
 
 #btnLimpar {
